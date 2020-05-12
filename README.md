@@ -5,11 +5,11 @@ git remote add origin https://github.com/Meghraj1998/HospitalApi.git
  
  
 API 
-/doctors/register
-/doctors/login 
-/register_patient 
-/patients/:id/create_report
-/patients/:id/
+/doctors/register<br>
+/doctors/login <br>
+/register_patient <br>
+/patients/:id/create_report</br>
+/patients/:id/</br>
 /reports/:status  
 # HospitalApi
  
