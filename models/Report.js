@@ -7,7 +7,8 @@ const reportSchema = new mongoose.Schema({
   },
   status: {
     type: String,
-    enum: ["positive", "negative"]
+    enum: ["positive", "negative"],
+    required:true,
     
   },
   patient_id: {
